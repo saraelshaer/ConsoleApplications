@@ -1,0 +1,14 @@
+E:\sara\c#\ConsoleApplications\GuessTheNumberGame\bin\Debug\net8.0\GuessTheNumberGame.exe
+E:\sara\c#\ConsoleApplications\GuessTheNumberGame\bin\Debug\net8.0\GuessTheNumberGame.deps.json
+E:\sara\c#\ConsoleApplications\GuessTheNumberGame\bin\Debug\net8.0\GuessTheNumberGame.runtimeconfig.json
+E:\sara\c#\ConsoleApplications\GuessTheNumberGame\bin\Debug\net8.0\GuessTheNumberGame.dll
+E:\sara\c#\ConsoleApplications\GuessTheNumberGame\bin\Debug\net8.0\GuessTheNumberGame.pdb
+E:\sara\c#\ConsoleApplications\GuessTheNumberGame\obj\Debug\net8.0\GuessTheNumberGame.GeneratedMSBuildEditorConfig.editorconfig
+E:\sara\c#\ConsoleApplications\GuessTheNumberGame\obj\Debug\net8.0\GuessTheNumberGame.AssemblyInfoInputs.cache
+E:\sara\c#\ConsoleApplications\GuessTheNumberGame\obj\Debug\net8.0\GuessTheNumberGame.AssemblyInfo.cs
+E:\sara\c#\ConsoleApplications\GuessTheNumberGame\obj\Debug\net8.0\GuessTheNumberGame.csproj.CoreCompileInputs.cache
+E:\sara\c#\ConsoleApplications\GuessTheNumberGame\obj\Debug\net8.0\GuessTheNumberGame.dll
+E:\sara\c#\ConsoleApplications\GuessTheNumberGame\obj\Debug\net8.0\refint\GuessTheNumberGame.dll
+E:\sara\c#\ConsoleApplications\GuessTheNumberGame\obj\Debug\net8.0\GuessTheNumberGame.pdb
+E:\sara\c#\ConsoleApplications\GuessTheNumberGame\obj\Debug\net8.0\GuessTheNumberGame.genruntimeconfig.cache
+E:\sara\c#\ConsoleApplications\GuessTheNumberGame\obj\Debug\net8.0\ref\GuessTheNumberGame.dll
