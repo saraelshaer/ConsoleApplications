@@ -1,0 +1,14 @@
+E:\sara\c#\ConsoleApplications\RockPaperScissorsGame\bin\Debug\net8.0\RockPaperScissorsGame.exe
+E:\sara\c#\ConsoleApplications\RockPaperScissorsGame\bin\Debug\net8.0\RockPaperScissorsGame.deps.json
+E:\sara\c#\ConsoleApplications\RockPaperScissorsGame\bin\Debug\net8.0\RockPaperScissorsGame.runtimeconfig.json
+E:\sara\c#\ConsoleApplications\RockPaperScissorsGame\bin\Debug\net8.0\RockPaperScissorsGame.dll
+E:\sara\c#\ConsoleApplications\RockPaperScissorsGame\bin\Debug\net8.0\RockPaperScissorsGame.pdb
+E:\sara\c#\ConsoleApplications\RockPaperScissorsGame\obj\Debug\net8.0\RockPaperScissorsGame.GeneratedMSBuildEditorConfig.editorconfig
+E:\sara\c#\ConsoleApplications\RockPaperScissorsGame\obj\Debug\net8.0\RockPaperScissorsGame.AssemblyInfoInputs.cache
+E:\sara\c#\ConsoleApplications\RockPaperScissorsGame\obj\Debug\net8.0\RockPaperScissorsGame.AssemblyInfo.cs
+E:\sara\c#\ConsoleApplications\RockPaperScissorsGame\obj\Debug\net8.0\RockPaperScissorsGame.csproj.CoreCompileInputs.cache
+E:\sara\c#\ConsoleApplications\RockPaperScissorsGame\obj\Debug\net8.0\RockPaperScissorsGame.dll
+E:\sara\c#\ConsoleApplications\RockPaperScissorsGame\obj\Debug\net8.0\refint\RockPaperScissorsGame.dll
+E:\sara\c#\ConsoleApplications\RockPaperScissorsGame\obj\Debug\net8.0\RockPaperScissorsGame.pdb
+E:\sara\c#\ConsoleApplications\RockPaperScissorsGame\obj\Debug\net8.0\RockPaperScissorsGame.genruntimeconfig.cache
+E:\sara\c#\ConsoleApplications\RockPaperScissorsGame\obj\Debug\net8.0\ref\RockPaperScissorsGame.dll
