@@ -1,4 +1,4 @@
-<h1>Guess The Number Game</h1>
+<h1> Guess The Number Game 🤔</h1>
 <h3>Overview</h3>
 This is a simple console-based game developed in C# where the player tries to guess a randomly chosen number within a specified range. The game provides an interactive experience where players can guess numbers, receive feedback on their guesses, and track their progress throughout the game.
 
