@@ -1,0 +1,14 @@
+E:\sara\c#\practice\ShoppingSystemProject\bin\Debug\net8.0\ShoppingSystemProject.exe
+E:\sara\c#\practice\ShoppingSystemProject\bin\Debug\net8.0\ShoppingSystemProject.deps.json
+E:\sara\c#\practice\ShoppingSystemProject\bin\Debug\net8.0\ShoppingSystemProject.runtimeconfig.json
+E:\sara\c#\practice\ShoppingSystemProject\bin\Debug\net8.0\ShoppingSystemProject.dll
+E:\sara\c#\practice\ShoppingSystemProject\bin\Debug\net8.0\ShoppingSystemProject.pdb
+E:\sara\c#\practice\ShoppingSystemProject\obj\Debug\net8.0\ShoppingSystemProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\sara\c#\practice\ShoppingSystemProject\obj\Debug\net8.0\ShoppingSystemProject.AssemblyInfoInputs.cache
+E:\sara\c#\practice\ShoppingSystemProject\obj\Debug\net8.0\ShoppingSystemProject.AssemblyInfo.cs
+E:\sara\c#\practice\ShoppingSystemProject\obj\Debug\net8.0\ShoppingSystemProject.csproj.CoreCompileInputs.cache
+E:\sara\c#\practice\ShoppingSystemProject\obj\Debug\net8.0\ShoppingSystemProject.dll
+E:\sara\c#\practice\ShoppingSystemProject\obj\Debug\net8.0\refint\ShoppingSystemProject.dll
+E:\sara\c#\practice\ShoppingSystemProject\obj\Debug\net8.0\ShoppingSystemProject.pdb
+E:\sara\c#\practice\ShoppingSystemProject\obj\Debug\net8.0\ShoppingSystemProject.genruntimeconfig.cache
+E:\sara\c#\practice\ShoppingSystemProject\obj\Debug\net8.0\ref\ShoppingSystemProject.dll
